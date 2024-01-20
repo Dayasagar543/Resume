@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+}
+span {
+  display: block;
+  margin: 5px;
+}
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+p {
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.name {
+  font-size: 50px;
+}
+body {
+  background: linear-gradient(rgb(255, 200, 0), rgb(164, 165, 189));
+}
